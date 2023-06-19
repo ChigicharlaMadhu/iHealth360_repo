@@ -1,2 +1,2 @@
-# iHealth360_repo
-IHealth360 app repository
+# iHotel360_repo
+iHotel360 app repository
